@@ -1,6 +1,6 @@
 #datasciencecoursera
 ##datasciencecoursera
 ###datasciencecoursera
-*one
-*two
-*three
+* one
+* two
+* three
